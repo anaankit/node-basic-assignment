@@ -1,7 +1,7 @@
 // creating an object of App config
 let appConfig = {}
 
-appConfig.port = 80;
+appConfig.port = 4200;
 appConfig.allowedCorsOrigin = '*';
 appConfig.evn='dev';
 appConfig.db={
